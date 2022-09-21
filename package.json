@@ -1,0 +1,33 @@
+{
+  "name": "gamberetti-reborn",
+  "displayName": "Gamberetti Reborn",
+  "description": "Just a cooler visual studio code theme.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gamberetti Reborn (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gamberetti-dark-color-theme.json"
+      },
+      {
+        "label": "Gamberetti Reborn (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/gamberetti-light-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "Domenico Mancini",
+  "icon": "./assets/gamberetti-icon.png",
+  "__metadata": {
+    "id": "8366f4c5-be00-4f95-a59b-a4479ef89ca4",
+    "publisherId": "ba4d3de9-f7c5-4ed5-947e-37cadef42547",
+    "publisherDisplayName": "Domenico Mancini"
+  }
+}
