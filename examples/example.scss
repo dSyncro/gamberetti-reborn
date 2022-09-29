@@ -1,0 +1,20 @@
+@use 'sass:map';
+
+a:hover {
+    text-decoration: none;
+}
+
+.class {
+    background-color: #fff;
+    color: #df0101;
+    width: 10px;
+    height: 10px;
+
+    & > :not(:last-child) {
+        margin-top: 10%;
+    }
+}
+
+#some-id {
+    position: relative;
+}
