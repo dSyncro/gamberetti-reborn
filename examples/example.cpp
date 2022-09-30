@@ -12,6 +12,14 @@ namespace spacename {
 
 }
 
+// This is a comment
+/* 
+    This
+    Is
+    A Multiline
+    comment
+*/
+
 template <typename T>
 class Templated {
     T x;
@@ -53,7 +61,8 @@ int main(int argc, char** argv){
     // This is a comment
 
     /*
-     *  This is also a comment
+     * This is also a comment
+     * ADASDASDASDASDASDASDASD
      */
 
     const char* string = "String\n";
