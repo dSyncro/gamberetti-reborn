@@ -1,13 +1,30 @@
 {
+  "publisher": "Domenico Mancini",
   "name": "gamberetti-reborn",
   "displayName": "Gamberetti Reborn",
-  "description": "Just a cooler visual studio code theme.",
+  "description": "A nice to the eye theme, inspired by shrimps.",
   "version": "1.0.0",
+  "icon": "./assets/gamberetti-icon.png",
   "engines": {
     "vscode": "^1.36.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dSyncro/gamberetti-reborn"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "gamberetti",
+    "red",
+    "orange",
+    "purple",
+    "blue",
+    "contrast"
   ],
   "contributes": {
     "themes": [
@@ -22,12 +39,5 @@
         "path": "./themes/gamberetti-light-color-theme.json"
       }
     ]
-  },
-  "publisher": "Domenico Mancini",
-  "icon": "./assets/gamberetti-icon.png",
-  "__metadata": {
-    "id": "8366f4c5-be00-4f95-a59b-a4479ef89ca4",
-    "publisherId": "ba4d3de9-f7c5-4ed5-947e-37cadef42547",
-    "publisherDisplayName": "Domenico Mancini"
   }
 }
