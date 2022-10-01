@@ -1,18 +1,3 @@
-/*
-	Palette Gray:
-		#2F323F
-		#21232C
-		#1C1E26
-		#181920
-
-	Palette Red:
-		#E84855
-		#D3424E
-
-	Palette Pink-Orangish:
-		#E3655B
-*/
-
 {
   "name": "Gamberetti",
   "type": "dark",
@@ -22,8 +7,8 @@
     "widget.shadow": "#1C1E26",
 
     "editor.background": "#21232C",
-    "editor.foreground": "#eeffff",
-    "editor.selectionBackground": "#e3645b50",
+    "editor.foreground": "#EEFFFF",
+    "editor.selectionBackground": "#E3655B50",
     "editor.selectionHighlightBackground": "#E8485530",
     "editor.hoverHighlightBackground": "#E3655BA0",
     "editor.lineHighlightBackground": "#1C1E26",
@@ -54,7 +39,7 @@
 
     "sideBar.background": "#1C1E26",
 
-    "sideBarTitle.foreground": "#eeffff",
+    "sideBarTitle.foreground": "#EEFFFF",
     "sideBarSectionHeader.background": "#181920",
 
     "statusBar.background": "#E84855",
