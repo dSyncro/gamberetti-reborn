@@ -1,3 +1,5 @@
+// This code is from 2022
+
 function min(a: number, b: number) {
   return a < b ? a : b;
 }
@@ -24,11 +26,16 @@ class Person {
   }
 
   getAgeDiff(other: Person) {
-    return this.age - other.age;
+    return this.positiveDifference(this.age, other.age);
+  }
+
+  private positiveDifference(a: number, b: number) {
+    return Math.abs(a - b);
   }
 }
 
-const gino = new Person("Gino", "La Mosca", 999);
-const gennaro = new Person("Gennaro", "Esposito", 40);
+const carlos = new Person("Carlos", "Sainz", 28);
+const charles = new Person("Charles", "Leclerc", 24);
 
-const ageDiff = gino.getAgeDiff(gennaro);
+const ageDiff = carlos.getAgeDiff(charles);
+console.log(ageDiff);
