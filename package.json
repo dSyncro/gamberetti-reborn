@@ -4,7 +4,7 @@
   "displayName": "Gamberetti Reborn",
   "description": "A nice to the eye theme, inspired by shrimps.",
   "version": "1.0.0",
-  "icon": "assets/gamberetti-reborn.png",
+  "icon": "assets/branding/gamberetti-reborn.png",
   "homepage": "https://github.com/dSyncro/gamberetti-reborn",
   "engines": {
     "vscode": "^1.36.0"
@@ -14,11 +14,11 @@
     "url": "https://github.com/dSyncro/gamberetti-reborn"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "keywords": [
     "theme",
+    "color",
     "dark theme",
     "light theme",
     "gamberetti",
