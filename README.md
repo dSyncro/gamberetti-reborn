@@ -1,2 +1,3 @@
-# Gamberetti Theme
-A blue and red accent based theme.
+# Gamberetti Reborn
+
+> A nice to the eye theme, inspired by shrimps.

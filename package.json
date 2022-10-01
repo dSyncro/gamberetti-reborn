@@ -1,10 +1,11 @@
 {
-  "publisher": "Domenico Mancini",
-  "name": "gamberetti-reborn",
+  "publisher": "dSyncro",
+  "name": "gamberetti-reborn-theme",
   "displayName": "Gamberetti Reborn",
   "description": "A nice to the eye theme, inspired by shrimps.",
   "version": "1.0.0",
-  "icon": "./assets/gamberetti-icon.png",
+  "icon": "assets/gamberetti-reborn.png",
+  "homepage": "https://github.com/dSyncro/gamberetti-reborn",
   "engines": {
     "vscode": "^1.36.0"
   },
@@ -13,7 +14,8 @@
     "url": "https://github.com/dSyncro/gamberetti-reborn"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "theme",
